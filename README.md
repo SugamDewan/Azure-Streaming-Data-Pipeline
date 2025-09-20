@@ -25,7 +25,6 @@ The pipeline follows a classic real-time data processing architecture:
 ## Final Output
 The final result is a Power BI dashboard that visualizes the cleaned and processed data from the Azure Data Lake.
 
-*(Here you should add your final screenshot of the polished Power BI report!)*
 ![Final Power BI Dashboard](Transportation_Analysis.png)
 
 ## Key Learnings
