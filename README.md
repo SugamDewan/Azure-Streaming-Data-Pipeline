@@ -30,4 +30,4 @@ The final result is a Power BI dashboard that visualizes the cleaned and process
 ## Key Learnings
 * Hands-on experience with provisioning and configuring core Azure streaming services.
 * Practical application of building a data producer in Python to stream data to an Event Hub.
-* In-depth troubleshooting of a real-world cloud pipeline, including debugging authentication errors (`InvalidSignature`), connection issues, and data format mismatches between services.
+* In-depth troubleshooting of a real-world cloud pipeline, including debugging authentication errors (InvalidSignature), connection issues, and data format mismatches between services.
